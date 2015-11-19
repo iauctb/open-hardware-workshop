@@ -18,6 +18,9 @@ We’re developing open source industrial machines that can be made for a fracti
 > Monome is a family of interface devices for computers made by an Upstate New York company of the same name. Brian Crabtree and his partner Kelli Cain are credited for Monome's creation. ![monome](https://upload.wikimedia.org/wikipedia/commons/3/36/Monome-family-stretta-20110321.jpg)
 [Wikipedia](https://en.wikipedia.org/wiki/Monome)
 
+### Parallax Propeller 1
+> The Propeller 1 (P8X32A) is now a 100% open multicore microcontroller, including all of the hardware and tools: Verilog code, Spin interpreter, PropellerIDE and SimpleIDE programming tools, and compilers. The Propeller 1 may be the most open chip in its class.
+(c) [Official page](https://www.parallax.com/microcontrollers/propeller-1-open-source)
 
 ##Communities
 
@@ -38,10 +41,6 @@ We’re developing open source industrial machines that can be made for a fracti
 
 ### SparkFun
 > SparkFun Electronics is an electronics retailer in Niwot, Colorado, United States. It manufactures and sells microcontroller development boards and breakout boards. All products designed and produced by SparkFun are released as open-source hardware. [Wikipeida](https://en.wikipedia.org/wiki/SparkFun_Electronics)
-
-### Parallax Propeller 1
-> The Propeller 1 (P8X32A) is now a 100% open multicore microcontroller, including all of the hardware and tools: Verilog code, Spin interpreter, PropellerIDE and SimpleIDE programming tools, and compilers. The Propeller 1 may be the most open chip in its class.
-(c) [Official page](https://www.parallax.com/microcontrollers/propeller-1-open-source)
 
 ### Grean Bean
 [FirstBuild main website](https://firstbuild.com/)
