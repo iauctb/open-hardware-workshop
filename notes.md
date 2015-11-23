@@ -14,6 +14,11 @@
 We’re developing open source industrial machines that can be made for a fraction of commercial costs, and sharing our designs online for free. The goal of Open Source Ecology is to create an open source economy – an efficient economy which increases innovation by open collaboration.
 ![Global Village Construction Set](http://opensourceecology.org/wp-content/uploads/2014/02/gvcs-all-50.jpg) (cc by sa) [Official site](http://opensourceecology.org/)
 
+### LittleBits
+> ittleBits is a New York City-based startup that makes an open source library of modular electronics (open-source electronics), which snap together with small magnets for prototyping and learning. The company’s goal is to democratize hardware the way software and printing have been democratized. The littleBits mission is to "put the power of electronics in the hands of everyone, and to break down complex technologies so that anyone can build, prototype, and invent." littleBits units are available in more than 70 countries and used in more than 2,000 schools. The company was named to CNN’s 10 Startups to Watch for 2013. [Wikipedia](https://en.wikipedia.org/wiki/LittleBits)
+
+[List of bits availabe](http://littlebits.cc/shop/bits)
+
 ### Monome
 > Monome is a family of interface devices for computers made by an Upstate New York company of the same name. Brian Crabtree and his partner Kelli Cain are credited for Monome's creation. ![monome](https://upload.wikimedia.org/wikipedia/commons/3/36/Monome-family-stretta-20110321.jpg)
 [Wikipedia](https://en.wikipedia.org/wiki/Monome)
