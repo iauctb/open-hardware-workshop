@@ -6,7 +6,7 @@
 Nothing
 
 ## 3rd Slide
-[PCB](https://en.wikipedia.org/wiki/Open-source_hardware#/media/File:Open_Source_Hardware_(OSHW%29_Logo_on_blank_PCB.jpg) (CC BY-SA 3.0)  
+[PCB](https://en.wikipedia.org/wiki/Open-source_hardware#/media/File:Open_Source_Hardware_%28OSHW%29_Logo_on_blank_PCB.jpg) (CC BY-SA 3.0)  
 [Arduino Diecimila](https://en.wikipedia.org/wiki/Open-source_hardware#/media/File:Arduino_Diecimila.jpg) (CC BY-SA 3.0)   
 [Clock Gears](https://pixabay.com/en/clock-time-gear-gears-blue-70189/)  
 [Tractor](http://opensourceecology.org/wp-content/uploads/2014/02/Tractor_gray-400x320.png) (CC BY-SA 4.0)
