@@ -4,7 +4,7 @@
 TEDGlobal 2012](https://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination) (CC BY-NC-ND)
 2. [TEDxBrussels - David Cuartielles - Open Source Hardware](https://www.youtube.com/watch?v=yLVrqjPsv64)
 3. [Amazing Arduino Projects](https://www.youtube.com/watch?v=z9Cqm28lbRk)
-4. [04_DIY $200 Robotic Hand - Arduino Project](https://www.youtube.com/watch?v=e4Rtgo6Vmq8)
+4. [DIY $200 Robotic Hand - Arduino Project](https://www.youtube.com/watch?v=e4Rtgo6Vmq8)
 5. [3D Printer With Arduino.mp4](https://www.youtube.com/watch?v=O0kt4GAEgQA)
 6. [LED cube 8x8x8 demo](https://www.youtube.com/watch?v=6mXM-oGggrM) - [The Project on Instructables](http://www.instructables.com/id/Led-Cube-8x8x8/)
 7. [Arduino based 3 Innovative Projects](https://www.youtube.com/watch?v=5Z7z3Zduj6w)
