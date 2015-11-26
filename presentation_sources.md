@@ -16,15 +16,60 @@ Nothing
 > Open source hardware is hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design. The hardware’s source, the design from which it is made, is available in the preferred format for making modifications to it. Ideally, open source hardware uses readily-available components and materials, standard processes, open infrastructure, unrestricted content, and open-source design tools to maximize the ability of individuals to make and use hardware. Open source hardware gives people the freedom to control their technology while sharing knowledge and encouraging commerce through the open exchange of designs.  
 [OSHWA Definition](http://www.oshwa.org/definition/) (CC BY-SA 4.0)
 
-https://tedconfblog.files.wordpress.com/2012/07/marcinjakubwoski_ted_qa.jpg
-ted 1:39 - 2:19
+## 6th Slide
+[Picture of Marchin Jakubowski](https://tedconfblog.files.wordpress.com/2012/07/marcinjakubwoski_ted_qa.jpg)
 
-https://s3.amazonaws.com/media-p.slid.es/uploads/ardumaniacos/images/45763/arduinoTeam.jpg
-http://resources.intenseschool.com/arduino-getting-started/
+## 7th Slide
+[Marcin Jakubowski:
+Open-sourced blueprints for civilization - 
+TED2011](https://www.ted.com/talks/marcin_jakubowski) (CC BY-NC-ND) 1:39 - 2:19
 
-https://www.flickr.com/photos/adafruit/15101708560
+## 8th Slide
+[The Arduino Team](https://s3.amazonaws.com/media-p.slid.es/uploads/ardumaniacos/images/45763/arduinoTeam.jpg
+http://resources.intenseschool.com/arduino-getting-started/)
+
+[Adruino Uno Board](https://www.flickr.com/photos/adafruit/15101708560)
+
+## 10th Slide
+
+To be updated!
+
+## 11 to 13th Slides
+Screenshots of [Arduino.ir](http://arduino.ir)
+
+## 14th Slide
+[Parallax Propeller 1](https://www.parallax.com/microcontrollers/propeller-1-open-source)
+
+## 15th Slide
+[Picture of Ayah Bdeir](https://en.wikipedia.org/wiki/Ayah_Bdeir#/media/File:Ayah_Bdeir_littleBits.jpeg)
+
+## 16th Slide
+
+to be updated!
+
+## 17th Slide
+Picture of Limor Fried
+
+## 18th Slide
 meet limor 00:35 - 1:30
 
-https://en.wikipedia.org/wiki/Ayah_Bdeir#/media/File:Ayah_Bdeir_littleBits.jpeg
+## 19th - 21th Slide
+Screenshots of Adafruit
 
-https://www.parallax.com/microcontrollers/propeller-1-open-source
+## 22th - 26th Slide
+Screenshots of SparkFun
+
+## 27th - 29th Slide
+Screenshots of Aftabrayaneh
+
+## 30th
+Nothing!
+
+## 31th - 33th Slide
+Screenshots of Instructables
+
+## 34th - 36th Slide
+Screenshots of Thingiverse
+
+## 37th Slide
+Nothing!
