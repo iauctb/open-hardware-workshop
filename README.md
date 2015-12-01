@@ -6,7 +6,7 @@ Repo for Open Source Hardware Workshop, [Open Source Day Event. IAUCTB, 2015.](h
 
 
 ## Quick links
-- The Slideshow file [OpenOffice file](presentation.odp) - [PDF](releases/download/v1.0/slideshow.pdf)  
+- The Slideshow: [OpenOffice file (Source)](presentation.odp) - [PDF](https://github.com/iauctb/open-hardware-workshop/releases/download/v1.0/slideshow.pdf)  
 - [Copyright notes and attributions of the Presentation](presentation_sources.md)
 - [Notes I made during my research](notes.md)
 - [Links to the videos I'll show](video_sources.md)
