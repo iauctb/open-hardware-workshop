@@ -1,7 +1,7 @@
 # Open Source Hardware Workshop
-Repository for Open Source Hardware Workshop, [Open Source Day Event. IAUCTB, 2015](http://events.cactb.ir/opensource/).
+Repository for Open Source Hardware Workshop, Open Source Day Event. IAUCTB, 2015.
 
-![A picture of me on stage in the middle of presentation - Photographer: Javad Arjmandi](assets/during_presentation_500.jpg)
+![A picture of me on stage in the middle of the presentation - Photographer: Javad Arjmandi](assets/during_presentation_500.jpg)
 
 ## Get Started Quickly with Arduino
 - [Arduino.cc](http://arduino.cc) (English)
