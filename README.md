@@ -3,7 +3,7 @@ Repository for Open Source Hardware Workshop, [Open Source Day Event. IAUCTB, 20
 
 ![A picture of me on stage in the middle of presentation - Photographer: Javad Arjmandi](assets/during_presentation_500.jpg)
 
-## Get started Quick with Arduino
+## Get Started Quickly with Arduino
 - [Arduino.cc](http://arduino.cc) (English)
 - [Arduino.ir](http://arduino.ir) (Persian)  
 - [Shop tools and boards online](http://aftabrayaneh.com/) (Iran, Persian)
@@ -20,8 +20,10 @@ Repository for Open Source Hardware Workshop, [Open Source Day Event. IAUCTB, 20
 - [Links to the videos shown](video_sources.md)
 - [Licence](LICENCE.md)
 
-Except where otherwise noted,
+---
+
+Except where [otherwise noted](notes.md),
 [Open Hardware Workshop](https://github.com/iauctb/open-hardware-workshop) by
 [Mohsen Dastjerdi Zade](https://github.com/mohsend)
 is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
+[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
