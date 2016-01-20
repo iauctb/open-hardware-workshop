@@ -4,7 +4,7 @@ Repository for Open Source Hardware Workshop, Open Source Day Event. IAUCTB, 201
 
 ![A picture of me on stage in the middle of the presentation - Photographer: Javad Arjmandi](assets/during_presentation_500.jpg)
 
-## Get Started Quickly with Arduino
+## Get Started Quickly with Arduino™
 
 - [Arduino Starter kit shop list](arduino_starter_kit.md)
 - [Arduino.cc](http://arduino.cc) (English)
@@ -19,11 +19,10 @@ Repository for Open Source Hardware Workshop, Open Source Day Event. IAUCTB, 201
 
 ## Quick links
 
-- The Slideshow: [Open Document Presentation file (Source)](slideshow.odp) - [PDF](https://github.com/iauctb/open-hardware-workshop/releases/download/v1.0/slideshow.pdf)  
+- The Slideshow: [Open Document Presentation  (Source)](slideshow.odp) - [PDF](https://github.com/iauctb/open-hardware-workshop/releases/download/v1.0/slideshow.pdf)  
 - [Copyright notes and attributions of the Presentation](presentation_sources.md)
-- [Notes I made during my research](notes.md)
-- [Links to the videos shown](video_sources.md)
-- [Licence](LICENCE.md)
+- [Links to related videos](video_sources.md)
+- [License](LICENSE.md)
 
 ---
 
