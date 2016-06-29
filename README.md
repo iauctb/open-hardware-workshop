@@ -20,7 +20,7 @@ Repository for Open Source Hardware Workshop, Open Source Day Event. IAUCTB, 201
 ## Quick links
 
 - The Slideshow: [Open Document Presentation  (Source)](slideshow.odp) - [PDF](https://github.com/iauctb/open-hardware-workshop/releases/download/v1.0/slideshow.pdf)  
-- [Copyright notes and attributions of the Presentation](presentation_sources.md)
+- [Copyright notes and attributions of the Presentation](slideshow_sources.md)
 - [Links to related videos](video_sources.md)
 - [License](LICENSE.md)
 
@@ -28,6 +28,6 @@ Repository for Open Source Hardware Workshop, Open Source Day Event. IAUCTB, 201
 
 Except where [otherwise noted](notes.md),
 [Open Hardware Workshop](https://github.com/iauctb/open-hardware-workshop) by
-[Mohsen Dastjerdi Zade](https://github.com/mohsend)
+[Mohsen Dastjerdi Zade](https://mehsen.com)
 is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
