@@ -31,6 +31,7 @@ The first 10 items are strongly recommended. The rest is optional.
 | 5V Relay | 1 | [AR](http://shop.aftabrayaneh.com/2Chanel_5v_relay.html) |
 | Mini Bread Board (170 points)| 5                | [AR](http://shop.aftabrayaneh.com/Peripherals/Pcb/Mini_Breadboard_SYB170.html) |
 | PCB Prototype Board pack     | 1                | [AR](http://shop.aftabrayaneh.com/Peripherals/Pcb/Prototype_PCB_4Size.html) |
+| Real time clock | 1 | [AR](http://shop.aftabrayaneh.com/Clock_Time_DS1307.html) |
 | Arduino Uno Wooden Case      | 1                | [AR](http://shop.aftabrayaneh.com/Arduino_Boards/Arduino_UNO_Wooden_Case.html) |
 
 \* [AftabRayaneh.com](http://aftabrayaneh.com) is an online shop for electronic components in Iran.
