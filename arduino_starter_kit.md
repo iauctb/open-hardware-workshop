@@ -38,12 +38,12 @@ The first 10 items are strongly recommended. The rest is optional.
 
 ## Resistors Table
 
-| Value  | Quantity |
-| ------ | -------- |
-| 220 Ω  | 40       |
-| 560 Ω  | 10       |
-| 1 kΩ   | 10       |
-| 4.7 kΩ | 20       |
-| 10 kΩ  | 20       |
-| 1 MΩ   | 10       |
-| 10 MΩ  | 10       |
+| Value  | Quantity | [Color code](http://www.electronics2000.co.uk/calc/resistor-code-calculator.php) |
+| ------ | -------- | ---------- |
+| 220 Ω  | 40       | Red Red Brown |
+| 560 Ω  | 10       | Green Blue Brown |
+| 1 kΩ   | 10       | Brown Black Red |
+| 4.7 kΩ | 20       | Yellow Violet Red |
+| 10 kΩ  | 20       | Brown Black Orange |
+| 1 MΩ   | 10       | Brown Black Green |
+| 10 MΩ  | 10       | Brown Black Blue |
